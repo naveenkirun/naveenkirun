@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @naveenkirun
-- 👀 I’m interested in design
-- 🌱 I’m currently learning development
+- 👀 I design data
 - 💞️ I’m looking to collaborate on web design
 
 <!---
